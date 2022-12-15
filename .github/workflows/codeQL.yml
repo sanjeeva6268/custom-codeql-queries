@@ -1,4 +1,4 @@
-name: "Code Scanning - Action"
+name: "init"
 
 on:
   pull_request:
